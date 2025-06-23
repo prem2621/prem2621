@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img align="right" width="370" height="290" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif"/>
 
 **prem2621/prem2621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
