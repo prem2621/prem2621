@@ -4,7 +4,7 @@
 
 <img align="right" width="370" height="290" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif"/>
 
-- 🔭 Here's my [portfolio](https://premkumar-webfolio.netlify.app/)
+- 🔭 Here's my [portfolio](https://prem2621.github.io/webfolio/)
 - 🌱 Currently diving deep into Data Structures & Algorithms
 - 👯 Open to collaborations on AI, ML & smart web solutions
 - 🤔 Eager to learn from devs in Big Tech ecosystems
