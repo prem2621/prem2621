@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Prem
 
-> I'm Prem, a self-taught frontend developer on a mission to blend code with creativity. From crafting UI designs to connecting APIs, I'm learning, building, and dreaming big – one line of code at a time.
+> I'm Prem, a self-taught frontend developer on a mission to blend code with creativity. From crafting UI designs to connecting APIs, I'm learning, building, and dreaming big – one line of code at a time. MERN Stack Developer | Full Stack Developer | React | Node.js
 
 <img align="right" width="370" height="290" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif"/>
 
