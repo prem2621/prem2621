@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Prem Kumar — Full Stack Developer at 4baseCare">
+<defs>
+  
+  <linearGradient id="hfill" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".20"/>
+    <stop offset=".45" stop-color="#fff" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".03"/>
+  </linearGradient>
+  <linearGradient id="hrim" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".85"/>
+    <stop offset=".3" stop-color="#fff" stop-opacity=".12"/>
+    <stop offset=".7" stop-color="#fff" stop-opacity=".06"/>
+    <stop offset="1" stop-color="#bfe3ff" stop-opacity=".55"/>
+  </linearGradient>
+  <linearGradient id="hsheen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".28"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="hshadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000814" flood-opacity=".55"/>
+  </filter>
+  
+  <pattern id="hgrid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#9ecbff" stroke-opacity=".06" stroke-width="1"/>
+  </pattern>
+  <filter id="hblurL" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="48"/></filter>
+  <filter id="hblurS" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/><feColorMatrix type="saturate" values="1.5"/></filter>
+  <clipPath id="hcard"><rect width="1000" height="330" rx="28"/></clipPath>
+  <linearGradient id="hname" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".55" stop-color="#e0f2fe"/><stop offset="1" stop-color="#93c5fd"/>
+  </linearGradient>
+  <g id="hblobs">
+    
+    <circle cx="170" cy="80" r="170" fill="#1d4ed8">
+      <animate attributeName="cx" values="170;310;170" dur="16s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <animate attributeName="cy" values="80;150;80" dur="16s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    </circle>
+    
+    <circle cx="830" cy="250" r="150" fill="#06b6d4">
+      <animate attributeName="cx" values="830;670;830" dur="18s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <animate attributeName="cy" values="250;190;250" dur="18s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    </circle>
+    
+    <circle cx="610" cy="30" r="130" fill="#7c3aed">
+      <animate attributeName="cx" values="610;490;610" dur="14s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <animate attributeName="cy" values="30;120;30" dur="14s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    </circle>
+    
+    <circle cx="400" cy="300" r="120" fill="#38bdf8">
+      <animate attributeName="cx" values="400;570;400" dur="20s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <animate attributeName="cy" values="300;220;300" dur="20s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    </circle>
+    
+    <circle cx="960" cy="40" r="90" fill="#2563eb">
+      <animate attributeName="cx" values="960;900;960" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <animate attributeName="cy" values="40;110;40" dur="12s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    </circle>
+  </g>
+</defs>
+<g clip-path="url(#hcard)">
+  <rect width="1000" height="330" fill="#030817"/>
+  <use href="#hblobs" filter="url(#hblurL)" opacity=".95"/>
+  <rect width="1000" height="330" fill="url(#hgrid)"/>
+  
+  <clipPath id="hgclip"><rect x="140" y="46" width="720" height="238" rx="40"/></clipPath>
+  <rect x="140" y="46" width="720" height="238" rx="40" fill="#0a1630" fill-opacity=".35" filter="url(#hshadow)"/>
+  <g clip-path="url(#hgclip)">
+    <use href="#hblobs" filter="url(#hblurS)" transform="translate(500 165) scale(1.18) translate(-500 -165)" opacity="0.9"/>
+  </g>
+  <rect x="140" y="46" width="720" height="238" rx="40" fill="url(#hfill)"/>
+  <rect x="154" y="49" width="692" height="70" rx="34" fill="url(#hsheen)" opacity=".55"/>
+  <rect x="140.75" y="46.75" width="718.5" height="236.5" rx="40" fill="none" stroke="url(#hrim)" stroke-width="1.5"/>
+
+  <!-- dynamic-island status pill -->
+  <rect x="368" y="62" width="264" height="30" rx="15" fill="#000" fill-opacity=".82"/>
+  <circle cx="388" cy="77" r="4.5" fill="#34d399">
+    <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="388" cy="77" r="4.5" fill="none" stroke="#34d399">
+    <animate attributeName="r" values="4.5;10;4.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values=".8;0;.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="510" y="82" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#e5e7eb" letter-spacing=".3">Building @ 4baseCare · Bengaluru</text>
+
+  <text x="500" y="160" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.5" fill="url(#hname)">Prem Kumar</text>
+  <text x="500" y="198" text-anchor="middle" font-family="-apple-system, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#cfe3ff" fill-opacity=".9" letter-spacing=".4">Full Stack Developer  ·  UI → API → Database</text>
+  <g>
+      <rect x="283.5" y="226" width="106" height="30" rx="15" fill="#fff" fill-opacity=".09" stroke="#fff" stroke-opacity=".28"/>
+      <rect x="289.5" y="227.5" width="94" height="11" rx="5.5" fill="#fff" fill-opacity=".10"/>
+      <text x="336.5" y="246" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#e0f2fe">TypeScript</text>
+    </g><g>
+      <rect x="399.5" y="226" width="68" height="30" rx="15" fill="#fff" fill-opacity=".09" stroke="#fff" stroke-opacity=".28"/>
+      <rect x="405.5" y="227.5" width="56" height="11" rx="5.5" fill="#fff" fill-opacity=".10"/>
+      <text x="433.5" y="246" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#e0f2fe">React</text>
+    </g><g>
+      <rect x="477.5" y="226" width="60" height="30" rx="15" fill="#fff" fill-opacity=".09" stroke="#fff" stroke-opacity=".28"/>
+      <rect x="483.5" y="227.5" width="48" height="11" rx="5.5" fill="#fff" fill-opacity=".10"/>
+      <text x="507.5" y="246" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#e0f2fe">Hono</text>
+    </g><g>
+      <rect x="547.5" y="226" width="106" height="30" rx="15" fill="#fff" fill-opacity=".09" stroke="#fff" stroke-opacity=".28"/>
+      <rect x="553.5" y="227.5" width="94" height="11" rx="5.5" fill="#fff" fill-opacity=".10"/>
+      <text x="600.5" y="246" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#e0f2fe">PostgreSQL</text>
+    </g><g>
+      <rect x="663.5" y="226" width="53" height="30" rx="15" fill="#fff" fill-opacity=".09" stroke="#fff" stroke-opacity=".28"/>
+      <rect x="669.5" y="227.5" width="41" height="11" rx="5.5" fill="#fff" fill-opacity=".10"/>
+      <text x="690" y="246" text-anchor="middle" font-family="'SF Mono', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" font-weight="600" fill="#e0f2fe">Zod</text>
+    </g>
+  <rect x=".5" y=".5" width="999" height="329" rx="28" fill="none" stroke="#9ecbff" stroke-opacity=".18"/>
+</g>
+</svg>
